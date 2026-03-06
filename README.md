@@ -1,22 +1,22 @@
-Tecnologías: Python, Pandas, Matplotlib/Seaborn, Jupyter
-Habilidades: limpieza de datos, merges, análisis temporal, visualización, storytelling con datos
+Technologies: Python, Pandas, Matplotlib/Seaborn, Jupyter
+Skills: data cleaning, merges, time series analysis, visualization, data storytelling
 
-Descripción:
-Proyecto de análisis de grandes datasets del INE para evaluar la evolución del turismo en España: ocupación hotelera, gasto turístico, PIB total y PIB del sector servicios. Incluye limpieza compleja de datos y combinación de múltiples fuentes. 
+Description:
+Project analyzing large INE datasets to assess the evolution of tourism in Spain: hotel occupancy, tourist spending, total GDP, and GDP of the service sector. Includes complex data cleaning and combination of multiple sources. 
 
-Análsis sector turístico
+Tourism sector analysis
 
-Logros / Resultados clave:
+Key achievements/results:
 
-Identificación del impacto de la pandemia en la ocupación hotelera: caída abrupta en 2020 y recuperación progresiva desde 2021.
+Identification of the impact of the pandemic on hotel occupancy: sharp decline in 2020 and gradual recovery since 2021.
 
-Detección de que el gasto turístico se recuperó más rápido que la ocupación en algunas regiones (turista de mayor gasto medio).
+Detection that tourist spending recovered faster than occupancy in some regions (tourists with higher average spending).
 
-Hallazgo de alta eficiencia turística en Comunidad de Madrid, con alto gasto y menor ocupación relativa.
+Finding of high tourism efficiency in the Community of Madrid, with high spending and lower relative occupancy.
 
-Análisis de PIB total vs PIB servicios: el sector servicios lidera la recuperación post-COVID.
+Analysis of total GDP vs. services GDP: the services sector leads the post-COVID recovery.
 
-Elaboración de heatmaps, comparativas anuales y treemaps por sector económico.
+Preparation of heat maps, annual comparisons, and treemaps by economic sector.
 
-Impacto:
-Ayuda a comprender la estructura económica del turismo y su peso dentro del PIB español, facilitando recomendaciones para políticas y estrategias regionales.
+Impact:
+Helps to understand the economic structure of tourism and its weight within Spanish GDP, facilitating recommendations for regional policies and strategies.
